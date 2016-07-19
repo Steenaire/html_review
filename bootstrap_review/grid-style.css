@@ -1,19 +1,39 @@
 .yellow {
   background-color: yellow;
-  height: 200px;
+  height: 300px;
 }
 
 .orange {
   background-color: orange;
-  height: 200px;
+  height: 300px;
 }
 
 .blue {
   background-color: blue;
-  height: 200px;
+  height: 300px;
 }
 
 .purple {
   background-color: purple;
-  height: 200px;
+  height: 300px;
+}
+
+.mauve {
+  background-color: #A52A2A;
+  height: 300px;
+}
+
+.white {
+  background-color: white;
+  height: 300px;
+}
+
+.red {
+  background-color: red;
+  height: 300px;
+}
+
+.cool-text {
+  color: #FFFFFF;
+  font-size: 400%;
 }
