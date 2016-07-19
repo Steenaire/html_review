@@ -1,0 +1,89 @@
+html {
+  text-align: center;
+  font-family: sans-serif;
+  color: #4682B4;
+}
+
+.wrapper img {
+  border-radius: 50%;
+  height: 200px;
+  box-shadow: 0px 4px 0px #888888;
+}
+
+.wrapper {
+  border: 10px solid #4682B4;
+  padding: 50px;
+  margin: 40px 40px 0px 40px;
+}
+
+.wrapper a {
+  color: #4682B4;
+}
+
+html h2{
+  margin: 20px;
+  background-color: #4682B4;
+  color: white;
+  text-align: left;
+  padding: 20px;
+  box-shadow: 0px 4px 0px #888888;
+}
+
+html h3 {
+  color: white;
+  padding: 20px;
+}
+
+html ul, html p {
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: left;
+}
+
+h1 {
+  color: #4682B4;
+}
+
+html .contact {
+  margin: 50px;
+}
+
+html body .contact .email {
+  background-color: white;
+  box-shadow: 0px 4px 0px #888888;
+  margin-bottom: 50px;
+  text-decoration: none;
+}
+
+.contact .email:hover {
+  background-color: gray;
+}
+
+section.contact {
+  background-color: #4682B4;
+  box-shadow: 0px 4px 0px #888888;
+  margin-top: 0px;
+}
+
+section.contact h3 {
+  margin-top: 0px;
+}
+
+footer p {
+  text-align: center;
+  margin-right: 45px;
+}
+
+@media only screen and (max-width: 800px) {
+  .wrapper {
+    padding: 0px;
+    margin: 0px;
+  }
+  html body h2 {
+    margin: 0px;
+    padding: 20px;
+  }
+  section {
+    margin: 0px;
+  }
+}

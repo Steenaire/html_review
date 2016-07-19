@@ -1,0 +1,60 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background:
+	url(https://c1.staticflickr.com/8/7579/26944811152_883b8ac1ab_k.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	text-shadow: 0 2px 3px rgba(0,0,0,.4);
+}
+
+.intro h1 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.intro h1:hover {
+	color:yellow;
+}
+
+.intro {
+	margin-top: 200px;
+}
+
+.about {
+	padding: 20px;
+}
+
+.thumb {
+	border-radius: 100px;
+	height: 204px;
+	width: 300px;
+}
+
+.about p {
+	padding: 50px;
+}
+
+.about p:hover {
+	color:red;
+}
+
+.about .left {
+	text-align: left;
+}
+
+.about .middle {
+	text-align: center;
+}
+
+.about .right {
+	text-align: right;
+}
+
+.gallery img:hover{
+	opacity: 0.5;
+}
