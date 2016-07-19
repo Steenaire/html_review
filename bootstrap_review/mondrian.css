@@ -1,0 +1,32 @@
+.yellow {
+  background-color: #FAE317;
+  height: 300px;
+  border: 10px solid #3C3A41;
+}
+
+.blue {
+  background-color: blue;
+  height: 300px;
+}
+
+.white {
+  background-color: white;
+  height: 300px;
+  border: 10px solid #3C3A41;
+}
+
+.red-top {
+  background-color: #F50F0F;
+  height: 300px;
+  border-top: 10px solid #3C3A41;
+  border-right: 10px solid #3C3A41;
+  border-left: 10px solid #3C3A41;
+}
+
+.red-bottom {
+  background-color: #F50F0F;
+  height: 300px;
+  border-bottom: 10px solid #3C3A41;
+  border-right: 10px solid #3C3A41;
+  border-left: 10px solid #3C3A41;
+}

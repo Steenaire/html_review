@@ -37,3 +37,10 @@
   color: #FFFFFF;
   font-size: 400%;
 }
+
+@media only screen and (max-width: 1000px) {
+  .white {
+    height: 2px;
+    background-color: white;
+  }
+}
